@@ -304,5 +304,9 @@ During the iterative process, we use the course values passed into the `.each` b
 
 Finally, the controller action loads the erb file `student.erb`, and we can see all of the newly-created student and course information in the browser.
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sinatra-nested-forms-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sinatra-nested-forms-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p class='util--hide'>View <a href='https://learn.co/lessons/sinatra-nested-forms-readme'>Sinatra Nested Forms</a> on Learn.co and start learning to code for free.</p>
 <p data-visibility='hidden'>PHRG Nested Forms Readme</p>
